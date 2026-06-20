@@ -1,0 +1,3 @@
+- https://www.anthropic.com/news
+- https://openai.com/news/
+- https://huggingface.co/papers/week/2026-W25
