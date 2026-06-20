@@ -1,0 +1,18 @@
+{
+  "_comment": "取得済みネタの台帳。idで重複判定する。新規ネタはここに追記してから当週ダイジェストに載せる。",
+  "seen": [
+    { "id": "anthropic:seoul-office-partnerships-korean-ai-ecosystem", "week": "2026-W25", "title": "ソウルオフィス開設と韓国AIパートナーシップ" },
+
+    { "id": "openai:improving-health-intelligence-in-chatgpt", "week": "2026-W25", "title": "ChatGPTの健康インテリジェンス強化" },
+    { "id": "openai:introducing-chatgpt-health", "week": "2026-W25", "title": "ChatGPT Health の発表" },
+    { "id": "openai:ai-chemist-rare-genetic-disease", "week": "2026-W25", "title": "AIケミスト/希少遺伝病診断支援" },
+    { "id": "openai:introducing-life-sci-bench", "week": "2026-W25", "title": "LifeSciBench" },
+    { "id": "openai:openai-partner-network", "week": "2026-W25", "title": "OpenAI パートナーネットワーク" },
+
+    { "id": "hf:2606.16140", "week": "2026-W25", "title": "VibeThinker-3B" },
+    { "id": "hf:2606.16993", "week": "2026-W25", "title": "DreamX-World 1.0" },
+    { "id": "hf:2606.14777", "week": "2026-W25", "title": "JoyAI-VL-Interaction" },
+    { "id": "hf:2606.18208", "week": "2026-W25", "title": "Looped World Models" },
+    { "id": "hf:2606.18023", "week": "2026-W25", "title": "LoopCoder-v2" }
+  ]
+}
