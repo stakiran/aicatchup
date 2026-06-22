@@ -13,6 +13,11 @@
     { "id": "hf:2606.16993", "week": "2026-W25", "title": "DreamX-World 1.0" },
     { "id": "hf:2606.14777", "week": "2026-W25", "title": "JoyAI-VL-Interaction" },
     { "id": "hf:2606.18208", "week": "2026-W25", "title": "Looped World Models" },
-    { "id": "hf:2606.18023", "week": "2026-W25", "title": "LoopCoder-v2" }
+    { "id": "hf:2606.18023", "week": "2026-W25", "title": "LoopCoder-v2" },
+
+    { "id": "hf:2606.19534", "week": "2026-W26", "title": "PerceptionDLM" },
+    { "id": "hf:2606.19651", "week": "2026-W26", "title": "BrainG3N" },
+    { "id": "hf:2606.18847", "week": "2026-W26", "title": "WorldLines" },
+    { "id": "hf:2606.18829", "week": "2026-W26", "title": "GateMem" }
   ]
 }
