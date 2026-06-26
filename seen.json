@@ -28,6 +28,14 @@
     { "id": "hf:2606.19409", "week": "2026-W26", "title": "OpenRath" },
     { "id": "hf:2606.21337", "week": "2026-W26", "title": "DataClaw0" },
     { "id": "hf:2606.23654", "week": "2026-W26", "title": "EnterpriseClawBench" },
-    { "id": "hf:2606.20945", "week": "2026-W26", "title": "Grouped Query Experts" }
+    { "id": "hf:2606.20945", "week": "2026-W26", "title": "Grouped Query Experts" },
+
+    { "id": "openai:openai-broadcom-jalapeno-inference-chip", "week": "2026-W26", "title": "OpenAI×Broadcom 推論チップ Jalapeño" },
+
+    { "id": "hf:2606.24597", "week": "2026-W26", "title": "Qwen-AgentWorld" },
+    { "id": "hf:2606.20781", "week": "2026-W26", "title": "World Action Models: A Survey" },
+    { "id": "hf:2606.15932", "week": "2026-W26", "title": "Beyond NL2Code（多モーダルコード知能サーベイ）" },
+    { "id": "hf:2606.17162", "week": "2026-W26", "title": "MemSlides" },
+    { "id": "hf:2606.23050", "week": "2026-W26", "title": "Unlimited OCR Works" }
   ]
 }
