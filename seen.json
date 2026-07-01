@@ -36,6 +36,19 @@
     { "id": "hf:2606.20781", "week": "2026-W26", "title": "World Action Models: A Survey" },
     { "id": "hf:2606.15932", "week": "2026-W26", "title": "Beyond NL2Code（多モーダルコード知能サーベイ）" },
     { "id": "hf:2606.17162", "week": "2026-W26", "title": "MemSlides" },
-    { "id": "hf:2606.23050", "week": "2026-W26", "title": "Unlimited OCR Works" }
+    { "id": "hf:2606.23050", "week": "2026-W26", "title": "Unlimited OCR Works" },
+
+    { "id": "anthropic:claude-sonnet-5", "week": "2026-W27", "title": "Claude Sonnet 5 を発表" },
+    { "id": "anthropic:redeploying-fable-5", "week": "2026-W27", "title": "Fable 5 を再展開" },
+    { "id": "anthropic:claude-science-ai-workbench", "week": "2026-W27", "title": "Claude Science（科学者向けAIワークベンチ）" },
+
+    { "id": "openai:mapping-ai-jobs-transition-eu", "week": "2026-W27", "title": "Mapping Europe's AI Workforce Opportunity" },
+    { "id": "openai:core-dump-epidemiology-data-infrastructure-bug", "week": "2026-W27", "title": "Core dump epidemiology（18年前のバグ）" },
+
+    { "id": "hf:2606.30534", "week": "2026-W27", "title": "Orca: The World is in Your Mind" },
+    { "id": "hf:2606.28733", "week": "2026-W27", "title": "Agentic Abstention" },
+    { "id": "hf:2606.30616", "week": "2026-W27", "title": "Scaling the Horizon, Not the Parameters" },
+    { "id": "hf:2606.28436", "week": "2026-W27", "title": "Dockerless" },
+    { "id": "hf:2606.30626", "week": "2026-W27", "title": "DOPD: Dual On-policy Distillation" }
   ]
 }
