@@ -49,6 +49,16 @@
     { "id": "hf:2606.28733", "week": "2026-W27", "title": "Agentic Abstention" },
     { "id": "hf:2606.30616", "week": "2026-W27", "title": "Scaling the Horizon, Not the Parameters" },
     { "id": "hf:2606.28436", "week": "2026-W27", "title": "Dockerless" },
-    { "id": "hf:2606.30626", "week": "2026-W27", "title": "DOPD: Dual On-policy Distillation" }
+    { "id": "hf:2606.30626", "week": "2026-W27", "title": "DOPD: Dual On-policy Distillation" },
+
+    { "id": "anthropic:fable-safeguards-jailbreak-framework", "week": "2026-W27", "title": "Fable 5 サイバーセーフガード詳細とジェイルブレイク評価フレームワーク" },
+
+    { "id": "openai:helping-build-shared-standards-for-advanced-ai", "week": "2026-W27", "title": "Appia Foundation への参画（AI標準化）" },
+
+    { "id": "hf:2606.26740", "week": "2026-W27", "title": "LiveEdit" },
+    { "id": "hf:2606.31315", "week": "2026-W27", "title": "BlockPilot" },
+    { "id": "hf:2607.02512", "week": "2026-W27", "title": "Program-as-Weights" },
+    { "id": "hf:2606.19297", "week": "2026-W27", "title": "Does VLA Even Know the Basics?" },
+    { "id": "hf:2606.27378", "week": "2026-W27", "title": "Formalizing Latent Thoughts" }
   ]
 }
