@@ -59,6 +59,18 @@
     { "id": "hf:2606.31315", "week": "2026-W27", "title": "BlockPilot" },
     { "id": "hf:2607.02512", "week": "2026-W27", "title": "Program-as-Weights" },
     { "id": "hf:2606.19297", "week": "2026-W27", "title": "Does VLA Even Know the Basics?" },
-    { "id": "hf:2606.27378", "week": "2026-W27", "title": "Formalizing Latent Thoughts" }
+    { "id": "hf:2606.27378", "week": "2026-W27", "title": "Formalizing Latent Thoughts" },
+
+    { "id": "anthropic:alberta-government-claude-cybersecurity", "week": "2026-W28", "title": "アルバータ州政府がClaudeで脆弱性検出・修正" },
+    { "id": "anthropic:making-of-claude-code", "week": "2026-W28", "title": "The Making of Claude Code" },
+
+    { "id": "openai:new-realtime-models-gpt-realtime-2-1", "week": "2026-W28", "title": "gpt-realtime-2.1 / 2.1-mini をAPIで公開" },
+    { "id": "openai:introducing-genebench-pro", "week": "2026-W28", "title": "GeneBench-Pro（計算生物学ベンチ、6/30の補遺）" },
+
+    { "id": "hf:2607.05391", "week": "2026-W28", "title": "LLM-as-a-Verifier" },
+    { "id": "hf:2607.05247", "week": "2026-W28", "title": "Vision Pretraining for Dense Spatial Perception" },
+    { "id": "hf:2607.05352", "week": "2026-W28", "title": "Multiplayer Interactive World Models" },
+    { "id": "hf:2606.29526", "week": "2026-W28", "title": "The Mirage of Optimizing Training Policies (MIPI/MIPU)" },
+    { "id": "hf:2607.04439", "week": "2026-W28", "title": "ResearchStudio-Idea" }
   ]
 }
