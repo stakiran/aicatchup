@@ -89,6 +89,14 @@
     { "id": "hf:2607.18367", "week": "2026-W30", "title": "AlayaWorld" },
     { "id": "hf:2607.10371", "week": "2026-W30", "title": "GigaAM Multilingual" },
     { "id": "hf:2607.19064", "week": "2026-W30", "title": "Mage-Flow" },
-    { "id": "hf:2606.29538", "week": "2026-W30", "title": "RESOURCE2SKILL" }
+    { "id": "hf:2606.29538", "week": "2026-W30", "title": "RESOURCE2SKILL" },
+    { "id": "openai:health-in-chatgpt", "week": "2026-W30", "title": "Health in ChatGPT（医療記録の接続）" },
+    { "id": "openai:safety-alignment-long-horizon-models", "week": "2026-W30", "title": "長期稼働モデルの安全性とアライメント" },
+
+    { "id": "hf:2607.15330", "week": "2026-W30", "title": "Xiaomi-Robotics-1" },
+    { "id": "hf:2607.11683", "week": "2026-W30", "title": "RAGU" },
+    { "id": "hf:2607.14530", "week": "2026-W30", "title": "xHC: Expanded Hyper-Connections" },
+    { "id": "hf:2607.16051", "week": "2026-W30", "title": "Loop the Loopies! (Loopie)" },
+    { "id": "hf:2607.15314", "week": "2026-W30", "title": "Cura 1T" }
   ]
 }
