@@ -3,8 +3,7 @@
     "allow": [
       "WebSearch",
       "WebFetch",
-      "Edit(docs/**/*.md)",
-      "Write(docs/**/*.md)"
+      "Edit(docs/**/*.md)"
     ]
   }
 }
