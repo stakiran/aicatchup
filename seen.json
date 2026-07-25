@@ -71,6 +71,24 @@
     { "id": "hf:2607.05247", "week": "2026-W28", "title": "Vision Pretraining for Dense Spatial Perception" },
     { "id": "hf:2607.05352", "week": "2026-W28", "title": "Multiplayer Interactive World Models" },
     { "id": "hf:2606.29526", "week": "2026-W28", "title": "The Mirage of Optimizing Training Policies (MIPI/MIPU)" },
-    { "id": "hf:2607.04439", "week": "2026-W28", "title": "ResearchStudio-Idea" }
+    { "id": "hf:2607.04439", "week": "2026-W28", "title": "ResearchStudio-Idea" },
+
+    { "id": "anthropic:claude-opus-5", "week": "2026-W30", "title": "Claude Opus 5 を発表" },
+    { "id": "anthropic:economic-futures-research-fund-agenda", "week": "2026-W30", "title": "Economic Futures Research Fund の研究アジェンダ（2億ドル）" },
+    { "id": "anthropic:anthropic-economic-index-connector", "week": "2026-W30", "title": "Anthropic Economic Index コネクタ" },
+    { "id": "anthropic:donation-public-first-action", "week": "2026-W30", "title": "Public First Action に2,000万ドル寄付" },
+    { "id": "anthropic:rare-disease-research-grants", "week": "2026-W30", "title": "希少遺伝病研究グラント募集" },
+
+    { "id": "openai:introducing-openai-presence", "week": "2026-W30", "title": "OpenAI Presence（企業向けAIエージェント運用）" },
+    { "id": "openai:introducing-chatgpt-small-business-program", "week": "2026-W30", "title": "ChatGPT for small business プログラム" },
+    { "id": "openai:new-board-members-velez-vince", "week": "2026-W30", "title": "取締役会に David Vélez・Robin Vince 就任" },
+    { "id": "openai:huggingface-security-incident", "week": "2026-W30", "title": "Hugging Face 絡みのセキュリティインシデント対応" },
+    { "id": "openai:news-organizations-ai", "week": "2026-W30", "title": "報道機関のAI活用" },
+
+    { "id": "hf:2607.19191", "week": "2026-W30", "title": "ABot-World-0" },
+    { "id": "hf:2607.18367", "week": "2026-W30", "title": "AlayaWorld" },
+    { "id": "hf:2607.10371", "week": "2026-W30", "title": "GigaAM Multilingual" },
+    { "id": "hf:2607.19064", "week": "2026-W30", "title": "Mage-Flow" },
+    { "id": "hf:2606.29538", "week": "2026-W30", "title": "RESOURCE2SKILL" }
   ]
 }
