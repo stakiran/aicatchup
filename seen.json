@@ -97,6 +97,12 @@
     { "id": "hf:2607.11683", "week": "2026-W30", "title": "RAGU" },
     { "id": "hf:2607.14530", "week": "2026-W30", "title": "xHC: Expanded Hyper-Connections" },
     { "id": "hf:2607.16051", "week": "2026-W30", "title": "Loop the Loopies! (Loopie)" },
-    { "id": "hf:2607.15314", "week": "2026-W30", "title": "Cura 1T" }
+    { "id": "hf:2607.15314", "week": "2026-W30", "title": "Cura 1T" },
+
+    { "id": "hf:2607.14088", "week": "2026-W30", "title": "VideoRAE" },
+    { "id": "hf:2607.15591", "week": "2026-W30", "title": "RecGPT-V3" },
+    { "id": "hf:2607.15161", "week": "2026-W30", "title": "On-Policy Delta Distillation" },
+    { "id": "hf:2607.11699", "week": "2026-W30", "title": "Qwen-Music" },
+    { "id": "hf:2607.16097", "week": "2026-W30", "title": "Understanding Reasoning from Pretraining to Post-Training" }
   ]
 }
