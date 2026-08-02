@@ -103,6 +103,23 @@
     { "id": "hf:2607.15591", "week": "2026-W30", "title": "RecGPT-V3" },
     { "id": "hf:2607.15161", "week": "2026-W30", "title": "On-Policy Delta Distillation" },
     { "id": "hf:2607.11699", "week": "2026-W30", "title": "Qwen-Music" },
-    { "id": "hf:2607.16097", "week": "2026-W30", "title": "Understanding Reasoning from Pretraining to Post-Training" }
+    { "id": "hf:2607.16097", "week": "2026-W30", "title": "Understanding Reasoning from Pretraining to Post-Training" },
+
+    { "id": "anthropic:investigating-incidents-cybersecurity-evals", "week": "2026-W31", "title": "サイバーセキュリティ評価での実環境インシデント3件の調査" },
+    { "id": "anthropic:discovering-cryptographic-weaknesses", "week": "2026-W31", "title": "Claude による暗号アルゴリズムの弱点発見（HAWK / AES）" },
+    { "id": "anthropic:position-open-weights-models", "week": "2026-W31", "title": "オープンウェイトモデルに対する立場" },
+    { "id": "anthropic:cognizant-anthropic", "week": "2026-W31", "title": "Cognizant との提携拡大" },
+
+    { "id": "openai:advancing-the-price-performance-frontier-with-gpt-5-6", "week": "2026-W31", "title": "GPT-5.6 の価格改定（Luna 80%値下げ）" },
+    { "id": "openai:building-abundant-intelligence", "week": "2026-W31", "title": "Building abundant intelligence" },
+    { "id": "openai:chatgpt-for-academic-researchers", "week": "2026-W31", "title": "ChatGPT for Academic Researchers" },
+    { "id": "openai:gpt-5-6-frontier-intelligence-efficiency", "week": "2026-W31", "title": "GPT-5.6 の知能と効率の両立" },
+    { "id": "openai:how-ai-is-expanding-what-people-do-at-work", "week": "2026-W31", "title": "AIによる職務境界の拡張（タスク横断）" },
+
+    { "id": "hf:2607.27205", "week": "2026-W31", "title": "TurboVLA" },
+    { "id": "hf:2607.27180", "week": "2026-W31", "title": "HumanCLAW" },
+    { "id": "hf:2607.25675", "week": "2026-W31", "title": "DecoEvo" },
+    { "id": "hf:2607.25294", "week": "2026-W31", "title": "CLBench-V" },
+    { "id": "hf:2607.25308", "week": "2026-W31", "title": "CAST" }
   ]
 }
