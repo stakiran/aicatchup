@@ -1,0 +1,48 @@
+name: Weekly AI Catchup
+
+on:
+  schedule:
+    # 毎週日曜 21:00 JST (= 12:00 UTC)
+    - cron: "0 12 * * 0"
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "対象のISO週コード (例: 2026-W32)。空欄なら実行日が属する週"
+        required: false
+        default: ""
+
+jobs:
+  catchup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run /catchup
+        uses: anthropics/claude-code-action@v1
+        with:
+          # どちらか設定済みの方が使われる。
+          # サブスク利用なら `claude setup-token` で発行したトークンを CLAUDE_CODE_OAUTH_TOKEN に、
+          # API利用なら ANTHROPIC_API_KEY をリポジトリシークレットに設定する。
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            /catchup を実行してください。
+            ${{ inputs.week != '' && format('対象週は {0} とすること（実行日の週ではなく、この週の期間のネタを収集する）。', inputs.week) || '対象週は実行日が属するISO週とすること。' }}
+            ファイルの編集まで行うこと。git のコミットは不要（後続ステップで行う）。
+          claude_args: --allowedTools "WebFetch,WebSearch,Read,Write,Edit,Glob,Grep" --max-turns 60
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs seen.json
+          if git diff --cached --quiet; then
+            echo "変更なし（今週の新着なし）"
+          else
+            git commit -m "Add weekly AI catchup digest (automated)"
+            git push
+          fi

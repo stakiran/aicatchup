@@ -1,5 +1,6 @@
 ---
 name: catchup
+allowed-tools: WebFetch, WebSearch, Read, Write, Edit, Glob, Grep
 description: AI関連ソース(.claude/rules/source.md のURL群)を巡回し、今週(ISO週)の新着ネタを取得して日本語の週次ダイジェストに追記する。各ソース最大5件、反響・インパクト順。取得済み(seen.json)は再掲しない。「キャッチアップ」「最新ネタ収集」「今週のAIニュース」等で起動。
 ---
 
