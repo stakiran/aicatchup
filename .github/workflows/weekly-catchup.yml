@@ -24,6 +24,9 @@ jobs:
       - name: Run /catchup
         uses: anthropics/claude-code-action@v1
         with:
+          # Claude Code GitHub App は入れていないので、標準の GITHUB_TOKEN を明示して
+          # OIDC 経由の App インストールトークン取得をスキップさせる。
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           # どちらか設定済みの方が使われる。
           # サブスク利用なら `claude setup-token` で発行したトークンを CLAUDE_CODE_OAUTH_TOKEN に、
           # API利用なら ANTHROPIC_API_KEY をリポジトリシークレットに設定する。
@@ -33,7 +36,7 @@ jobs:
             /catchup を実行してください。
             ${{ inputs.week != '' && format('対象週は {0} とすること（実行日の週ではなく、この週の期間のネタを収集する）。', inputs.week) || '対象週は実行日が属するISO週とすること。' }}
             ファイルの編集まで行うこと。git のコミットは不要（後続ステップで行う）。
-          claude_args: --allowedTools "WebFetch,WebSearch,Read,Write,Edit,Glob,Grep" --max-turns 60
+          claude_args: --allowedTools "Skill,WebFetch,WebSearch,Read,Write,Edit,Glob,Grep" --max-turns 60
 
       - name: Commit and push
         run: |
