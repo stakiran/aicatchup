@@ -135,6 +135,20 @@
     { "id": "hf:2608.01964", "week": "2026-W32", "title": "LongHorizon-Harness" },
     { "id": "hf:2608.02437", "week": "2026-W32", "title": "InfiniSplat" },
     { "id": "hf:2608.05466", "week": "2026-W32", "title": "Recursive Synthesis (RST)" },
-    { "id": "hf:2607.23802", "week": "2026-W32", "title": "RLVR to RLSVR" }
+    { "id": "hf:2607.23802", "week": "2026-W32", "title": "RLVR to RLSVR" },
+
+    { "id": "anthropic:claude-text-watermark", "week": "2026-W33", "title": "Claudeのテキスト透かしの仕組み" },
+
+    { "id": "openai:responding-next-frontier-critical-cyber-capabilities", "week": "2026-W33", "title": "Astraの重大サイバー能力への対応" },
+    { "id": "openai:testing-ads-in-chatgpt", "week": "2026-W33", "title": "ChatGPT広告テストの5市場拡大" },
+    { "id": "openai:daybreak-models-are-now-available-on-aws", "week": "2026-W33", "title": "Daybreak モデルが Amazon Bedrock で利用可能に" },
+    { "id": "openai:previewing-ultrafast", "week": "2026-W33", "title": "Ultrafast モード（GPT-5.6 Sol 最大14倍速）" },
+    { "id": "openai:how-enterprises-put-ai-to-work", "week": "2026-W33", "title": "企業のAI活用実態レポート" },
+
+    { "id": "hf:2608.09888", "week": "2026-W33", "title": "BDH-CQ" },
+    { "id": "hf:2608.09819", "week": "2026-W33", "title": "Macaron-V1" },
+    { "id": "hf:2608.11924", "week": "2026-W33", "title": "Spark-to-Paper" },
+    { "id": "hf:2608.00677", "week": "2026-W33", "title": "OpenART" },
+    { "id": "hf:2608.06296", "week": "2026-W33", "title": "On-Policy Self-Distillation without Any Supervision" }
   ]
 }
