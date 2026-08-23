@@ -149,6 +149,18 @@
     { "id": "hf:2608.09819", "week": "2026-W33", "title": "Macaron-V1" },
     { "id": "hf:2608.11924", "week": "2026-W33", "title": "Spark-to-Paper" },
     { "id": "hf:2608.00677", "week": "2026-W33", "title": "OpenART" },
-    { "id": "hf:2608.06296", "week": "2026-W33", "title": "On-Policy Self-Distillation without Any Supervision" }
+    { "id": "hf:2608.06296", "week": "2026-W33", "title": "On-Policy Self-Distillation without Any Supervision" },
+
+    { "id": "openai:pacing-model-development-cyber-capabilities", "week": "2026-W34", "title": "サイバー能力急伸を受けモデル開発のペースを落とす対応" },
+    { "id": "openai:openai-joins-ports-pike-project", "week": "2026-W34", "title": "Ohio「PORTS-Pike」プロジェクトに参画（8GWデータセンター）" },
+    { "id": "openai:chatgpt-for-teens", "week": "2026-W34", "title": "ChatGPT for Teens を導入" },
+    { "id": "openai:offering-zero-data-retention-for-frontier-models", "week": "2026-W34", "title": "フロンティアモデル向けゼロデータ保持とPrivate Safety Processing" },
+    { "id": "openai:chatgpt-ads-expands-across-europe", "week": "2026-W34", "title": "ChatGPT広告を欧州31カ国へ拡大" },
+
+    { "id": "hf:2608.15089", "week": "2026-W34", "title": "StateM" },
+    { "id": "hf:2608.14391", "week": "2026-W34", "title": "AI生成危機動画への防御ベンチマーク（RA-Bench）" },
+    { "id": "hf:2608.19880", "week": "2026-W34", "title": "EnvHarness" },
+    { "id": "hf:2608.16859", "week": "2026-W34", "title": "HarnessEval-W" },
+    { "id": "hf:2608.14144", "week": "2026-W34", "title": "Self-Supervised Visual On-Policy Distillation (S²VOPD)" }
   ]
 }
