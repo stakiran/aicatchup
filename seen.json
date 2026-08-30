@@ -161,6 +161,22 @@
     { "id": "hf:2608.14391", "week": "2026-W34", "title": "AI生成危機動画への防御ベンチマーク（RA-Bench）" },
     { "id": "hf:2608.19880", "week": "2026-W34", "title": "EnvHarness" },
     { "id": "hf:2608.16859", "week": "2026-W34", "title": "HarnessEval-W" },
-    { "id": "hf:2608.14144", "week": "2026-W34", "title": "Self-Supervised Visual On-Policy Distillation (S²VOPD)" }
+    { "id": "hf:2608.14144", "week": "2026-W34", "title": "Self-Supervised Visual On-Policy Distillation (S²VOPD)" },
+
+    { "id": "anthropic:model-hardware-standard-research-preview", "week": "2026-W35", "title": "Model Hardware Standard リサーチプレビュー" },
+    { "id": "anthropic:expanding-support-for-scientists", "week": "2026-W35", "title": "科学者向けサポート拡大" },
+    { "id": "anthropic:wellbeing-research-grants", "week": "2026-W35", "title": "ウェルビーイング研究助成プログラム" },
+
+    { "id": "openai:hugging-face-model-evaluation-security-incident", "week": "2026-W35", "title": "Hugging Face セキュリティインシデント報告書" },
+    { "id": "openai:jalapeno-first-results", "week": "2026-W35", "title": "Jalapeño 推論チップ初のベンチマーク結果" },
+    { "id": "openai:bringing-chatgpt-for-teachers-to-more-us-school-districts", "week": "2026-W35", "title": "ChatGPT for Teachers を米学区へ拡大" },
+    { "id": "openai:expanding-our-presence-in-brazil", "week": "2026-W35", "title": "ブラジルでの事業展開拡大" },
+    { "id": "openai:gpt-5-6-in-kiro", "week": "2026-W35", "title": "Kiro に GPT-5.6 ファミリーを統合" },
+
+    { "id": "hf:2608.15875", "week": "2026-W35", "title": "GigaBrain-0.7" },
+    { "id": "hf:2608.23283", "week": "2026-W35", "title": "Apodex 1.1" },
+    { "id": "hf:2608.24053", "week": "2026-W35", "title": "WeMM-Embedding" },
+    { "id": "hf:2608.26005", "week": "2026-W35", "title": "VoiceMem" },
+    { "id": "hf:2608.26105", "week": "2026-W35", "title": "VBVR-Pro" }
   ]
 }
