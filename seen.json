@@ -177,6 +177,22 @@
     { "id": "hf:2608.23283", "week": "2026-W35", "title": "Apodex 1.1" },
     { "id": "hf:2608.24053", "week": "2026-W35", "title": "WeMM-Embedding" },
     { "id": "hf:2608.26005", "week": "2026-W35", "title": "VoiceMem" },
-    { "id": "hf:2608.26105", "week": "2026-W35", "title": "VBVR-Pro" }
+    { "id": "hf:2608.26105", "week": "2026-W35", "title": "VBVR-Pro" },
+
+    { "id": "anthropic:claude-fable-5-1-and-claude-mythos-5-1", "week": "2026-W36", "title": "Claude Fable 5.1 / Claude Mythos 5.1 を発表" },
+    { "id": "anthropic:improving-alignment-security-efforts", "week": "2026-W36", "title": "アライメント・安全対策の強化策を公表" },
+    { "id": "anthropic:enterprise-frontier-safeguards", "week": "2026-W36", "title": "Enterprise Frontier Safeguards を発表" },
+
+    { "id": "openai:gpt-6-astra", "week": "2026-W36", "title": "GPT-6 Astra を発表" },
+    { "id": "openai:path-to-astra", "week": "2026-W36", "title": "Astraのサイバー能力Critical水準到達への対応" },
+    { "id": "openai:safety-overview-gpt-6-astra", "week": "2026-W36", "title": "GPT-6 Astra の安全性検証結果" },
+    { "id": "openai:chatgpt-connects-health-records-and-healthcare-sources", "week": "2026-W36", "title": "ChatGPTにEpic EHR等の医療データ接続" },
+    { "id": "openai:ai-native-company-workflows", "week": "2026-W36", "title": "AI活用の先進企業と一般企業の差拡大レポート" },
+
+    { "id": "hf:2608.27550", "week": "2026-W36", "title": "Beyond Data Scaling (VLAct)" },
+    { "id": "hf:2609.02749", "week": "2026-W36", "title": "Repo-To-Skill" },
+    { "id": "hf:2609.01591", "week": "2026-W36", "title": "StudentSim" },
+    { "id": "hf:2609.02886", "week": "2026-W36", "title": "SolarWM" },
+    { "id": "hf:2609.00111", "week": "2026-W36", "title": "Qwen-Drive-1.0" }
   ]
 }
