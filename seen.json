@@ -193,6 +193,22 @@
     { "id": "hf:2609.02749", "week": "2026-W36", "title": "Repo-To-Skill" },
     { "id": "hf:2609.01591", "week": "2026-W36", "title": "StudentSim" },
     { "id": "hf:2609.02886", "week": "2026-W36", "title": "SolarWM" },
-    { "id": "hf:2609.00111", "week": "2026-W36", "title": "Qwen-Drive-1.0" }
+    { "id": "hf:2609.00111", "week": "2026-W36", "title": "Qwen-Drive-1.0" },
+
+    { "id": "anthropic:alignment-assessment-cybersecurity-incidents", "week": "2026-W37", "title": "サイバーセキュリティ評価4件の実環境アクセス事案のアライメント評価" },
+    { "id": "anthropic:intelligence-targeting-conventional-weapons-capabilities", "week": "2026-W37", "title": "Frontier Red Team: 諜報標的特定・通常兵器開発能力の評価" },
+    { "id": "anthropic:threat-intelligence-report-september-2026", "week": "2026-W37", "title": "脅威インテリジェンスレポート September 2026" },
+
+    { "id": "openai:navier-stokes-solution", "week": "2026-W37", "title": "ナビエ–ストークス方程式の解をAIが導出" },
+    { "id": "openai:introducing-the-agents-api", "week": "2026-W37", "title": "Agents API をパブリックベータで公開" },
+    { "id": "openai:paul-christiano-joins-openai-foundation-board", "week": "2026-W37", "title": "Paul Christiano氏がOpenAI Foundation理事会に就任" },
+    { "id": "openai:introducing-chatgpt-financial-services", "week": "2026-W37", "title": "ChatGPT for Financial Services を発表" },
+    { "id": "openai:introducing-gpt-live-1-in-the-api", "week": "2026-W37", "title": "GPT-Live-1 をAPIで提供開始" },
+
+    { "id": "hf:2608.12564", "week": "2026-W37", "title": "Scaling Automatic Research Agents via World Models" },
+    { "id": "hf:2609.08183", "week": "2026-W37", "title": "NeoHorse-1" },
+    { "id": "hf:2609.10715", "week": "2026-W37", "title": "NCP-ArchPreview" },
+    { "id": "hf:2609.11929", "week": "2026-W37", "title": "SenseNova-U1.5" },
+    { "id": "hf:2609.08936", "week": "2026-W37", "title": "AuK Technical Report" }
   ]
 }
