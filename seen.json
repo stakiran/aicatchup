@@ -209,6 +209,22 @@
     { "id": "hf:2609.08183", "week": "2026-W37", "title": "NeoHorse-1" },
     { "id": "hf:2609.10715", "week": "2026-W37", "title": "NCP-ArchPreview" },
     { "id": "hf:2609.11929", "week": "2026-W37", "title": "SenseNova-U1.5" },
-    { "id": "hf:2609.08936", "week": "2026-W37", "title": "AuK Technical Report" }
+    { "id": "hf:2609.08936", "week": "2026-W37", "title": "AuK Technical Report" },
+
+    { "id": "anthropic:accenture-embedded-evaluation", "week": "2026-W38", "title": "Accenture Faculty と組み込み型評価で提携" },
+    { "id": "anthropic:life-sciences-verification-program", "week": "2026-W38", "title": "Life Sciences Verification Program を開始" },
+    { "id": "anthropic:measuring-pace-of-ai-development", "week": "2026-W38", "title": "AI開発ペースを測る新指標を提案" },
+
+    { "id": "openai:astra-for-law", "week": "2026-W38", "title": "Astra for Law を発表" },
+    { "id": "openai:model-misalignment-reporting-framework", "week": "2026-W38", "title": "モデル不整合報告フレームワークと6事例を公開" },
+    { "id": "openai:reimagining-advertising-with-ai", "week": "2026-W38", "title": "Reimagining advertising with AI（ChatGPT広告刷新）" },
+    { "id": "openai:australian-youth-safety-blueprint", "week": "2026-W38", "title": "Australian Youth Safety Blueprint を発表" },
+    { "id": "openai:helping-older-adults-use-ai-in-everyday-life", "week": "2026-W38", "title": "高齢者のAI活用支援（AARP/OATS提携）" },
+
+    { "id": "hf:2609.17488", "week": "2026-W38", "title": "LimiX-2" },
+    { "id": "hf:2609.14858", "week": "2026-W38", "title": "Dream-RSI" },
+    { "id": "hf:2609.11638", "week": "2026-W38", "title": "Vidu S2" },
+    { "id": "hf:2609.15818", "week": "2026-W38", "title": "Atria Dawn" },
+    { "id": "hf:2609.13356", "week": "2026-W38", "title": "ZGCM-1" }
   ]
 }
