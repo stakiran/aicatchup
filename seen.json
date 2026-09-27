@@ -225,6 +225,21 @@
     { "id": "hf:2609.14858", "week": "2026-W38", "title": "Dream-RSI" },
     { "id": "hf:2609.11638", "week": "2026-W38", "title": "Vidu S2" },
     { "id": "hf:2609.15818", "week": "2026-W38", "title": "Atria Dawn" },
-    { "id": "hf:2609.13356", "week": "2026-W38", "title": "ZGCM-1" }
+    { "id": "hf:2609.13356", "week": "2026-W38", "title": "ZGCM-1" },
+
+    { "id": "anthropic:claude-opus-5-5", "week": "2026-W39", "title": "Claude Opus 5.5 を発表" },
+    { "id": "anthropic:claude-discovers-novel-enzyme-system", "week": "2026-W39", "title": "CRISPR様の新酵素システムを発見" },
+
+    { "id": "openai:introducing-gpt-6-sol-and-luna", "week": "2026-W39", "title": "GPT-6 Sol と GPT-6 Luna を発表" },
+    { "id": "openai:sam-altman-un-security-council-remarks", "week": "2026-W39", "title": "サム・アルトマンCEOが国連安保理で演説" },
+    { "id": "openai:openai-extends-cyber-access-to-ukraine-for-civilian-defense", "week": "2026-W39", "title": "Daybreakのウクライナ提供を拡大" },
+    { "id": "openai:priorities-principles-third-party-assessments", "week": "2026-W39", "title": "第三者評価の優先分野と原則を公表" },
+    { "id": "openai:introducing-mentalhealthbench", "week": "2026-W39", "title": "MentalHealthBench を発表" },
+
+    { "id": "hf:2609.23088", "week": "2026-W39", "title": "OmniEdu" },
+    { "id": "hf:2609.13814", "week": "2026-W39", "title": "Realtime-Venus" },
+    { "id": "hf:2609.24972", "week": "2026-W39", "title": "RRSI" },
+    { "id": "hf:2609.28654", "week": "2026-W39", "title": "Training Object Permanence in World Models" },
+    { "id": "hf:2609.24984", "week": "2026-W39", "title": "WorldCrafter" }
   ]
 }
