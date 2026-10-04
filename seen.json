@@ -240,6 +240,22 @@
     { "id": "hf:2609.13814", "week": "2026-W39", "title": "Realtime-Venus" },
     { "id": "hf:2609.24972", "week": "2026-W39", "title": "RRSI" },
     { "id": "hf:2609.28654", "week": "2026-W39", "title": "Training Object Permanence in World Models" },
-    { "id": "hf:2609.24984", "week": "2026-W39", "title": "WorldCrafter" }
+    { "id": "hf:2609.24984", "week": "2026-W39", "title": "WorldCrafter" },
+
+    { "id": "anthropic:claude-sonnet-5-5", "week": "2026-W40", "title": "Claude Sonnet 5.5 を発表" },
+    { "id": "anthropic:claude-frontier-academy", "week": "2026-W40", "title": "Claude Frontier Academy（1万人のFDE育成）" },
+    { "id": "anthropic:barclays-scales-claude", "week": "2026-W40", "title": "Barclays、Claudeを全社規模に拡大" },
+
+    { "id": "openai:devday-2026-recap", "week": "2026-W40", "title": "DevDay 2026（GPT-6.1 Sol・Agents API）" },
+    { "id": "openai:towards-safety-cases-for-frontier-ai-training", "week": "2026-W40", "title": "フロンティアAI訓練の安全性ケース" },
+    { "id": "openai:how-we-will-do-better-for-australia", "week": "2026-W40", "title": "オーストラリアへの改善方針" },
+    { "id": "openai:lenfest-ai-collaborative-expansion", "week": "2026-W40", "title": "Lenfest AI Collaborative を拡大支援" },
+    { "id": "openai:practical-guide-building-gpt-6", "week": "2026-W40", "title": "GPT-6ファミリーのモデルガイド" },
+
+    { "id": "hf:2609.33757", "week": "2026-W40", "title": "YuE2" },
+    { "id": "hf:2609.33439", "week": "2026-W40", "title": "Raven" },
+    { "id": "hf:2609.38426", "week": "2026-W40", "title": "LoopVL" },
+    { "id": "hf:2609.36484", "week": "2026-W40", "title": "The Teacher Is a Direction, Not a Destination" },
+    { "id": "hf:2609.34309", "week": "2026-W40", "title": "MaLiang-Harness" }
   ]
 }
