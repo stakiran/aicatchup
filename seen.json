@@ -256,6 +256,24 @@
     { "id": "hf:2609.33439", "week": "2026-W40", "title": "Raven" },
     { "id": "hf:2609.38426", "week": "2026-W40", "title": "LoopVL" },
     { "id": "hf:2609.36484", "week": "2026-W40", "title": "The Teacher Is a Direction, Not a Destination" },
-    { "id": "hf:2609.34309", "week": "2026-W40", "title": "MaLiang-Harness" }
+    { "id": "hf:2609.34309", "week": "2026-W40", "title": "MaLiang-Harness" },
+
+    { "id": "anthropic:claude-haiku-5-5", "week": "2026-W41", "title": "Claude Haiku 5.5" },
+    { "id": "anthropic:genesis-mission-commitment", "week": "2026-W41", "title": "Genesis Missionに1.5億ドル" },
+    { "id": "anthropic:anthropic-cyber-mission", "week": "2026-W41", "title": "Anthropic Cyber Mission" },
+    { "id": "anthropic:2026-usage-policy-update", "week": "2026-W41", "title": "2026年版利用ポリシー更新" },
+    { "id": "anthropic:cyber-verification-program", "week": "2026-W41", "title": "Cyber Verification Program拡大" },
+
+    { "id": "openai:gpt-6-for-everyone", "week": "2026-W41", "title": "GPT-6とIntelligent UIを全ユーザーへ" },
+    { "id": "openai:sharing-ai-progress-in-mathematics", "week": "2026-W41", "title": "内部モデルによる数学の新成果" },
+    { "id": "openai:atlassian-partnership", "week": "2026-W41", "title": "Atlassianとのパートナーシップ拡大" },
+    { "id": "openai:new-chatgpt-ads-format-and-measurement", "week": "2026-W41", "title": "ChatGPTの新広告フォーマット" },
+    { "id": "openai:disrupting-ai-enabled-false-front-operations", "week": "2026-W41", "title": "偽装影響工作の摘発" },
+
+    { "id": "hf:2610.01780", "week": "2026-W41", "title": "RealCompanion" },
+    { "id": "hf:2610.08448", "week": "2026-W41", "title": "Cross-Tokenizer On-Policy Distillation" },
+    { "id": "hf:2610.12374", "week": "2026-W41", "title": "AgentGarten" },
+    { "id": "hf:2610.05608", "week": "2026-W41", "title": "Kandinsky 6.0 Video" },
+    { "id": "hf:2610.08077", "week": "2026-W41", "title": "Self-Retrospection Distillation" }
   ]
 }
