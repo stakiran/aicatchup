@@ -274,6 +274,21 @@
     { "id": "hf:2610.08448", "week": "2026-W41", "title": "Cross-Tokenizer On-Policy Distillation" },
     { "id": "hf:2610.12374", "week": "2026-W41", "title": "AgentGarten" },
     { "id": "hf:2610.05608", "week": "2026-W41", "title": "Kandinsky 6.0 Video" },
-    { "id": "hf:2610.08077", "week": "2026-W41", "title": "Self-Retrospection Distillation" }
+    { "id": "hf:2610.08077", "week": "2026-W41", "title": "Self-Retrospection Distillation" },
+
+    { "id": "anthropic:an-update-on-independent-evaluators", "week": "2026-W42", "title": "独立評価機関に関する最新状況（METR）" },
+    { "id": "anthropic:2026-us-midterms", "week": "2026-W42", "title": "2026年米中間選挙への備え" },
+    { "id": "anthropic:singapore-office-opening", "week": "2026-W42", "title": "シンガポールオフィス開設とMOU締結" },
+
+    { "id": "openai:introducing-the-rosalind-academic-plan", "week": "2026-W42", "title": "Rosalind Academic Plan" },
+    { "id": "openai:block-ai-powered-security", "week": "2026-W42", "title": "Blockが構築するAIセキュリティ" },
+    { "id": "openai:the-eus-next-chapter-in-ai-is-agentic", "week": "2026-W42", "title": "EUのAIの次章はエージェント型" },
+    { "id": "openai:gpt-live-1-1", "week": "2026-W42", "title": "GPT-Live-1.1（ChatGPT Voice）" },
+
+    { "id": "hf:2610.21601", "week": "2026-W42", "title": "Waypoint-OPD" },
+    { "id": "hf:2610.18829", "week": "2026-W42", "title": "OmniCompass" },
+    { "id": "hf:2610.18773", "week": "2026-W42", "title": "Jeva" },
+    { "id": "hf:2610.20571", "week": "2026-W42", "title": "Any Time, Any Space" },
+    { "id": "hf:2610.20584", "week": "2026-W42", "title": "Player-1" }
   ]
 }
