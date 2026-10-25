@@ -289,6 +289,22 @@
     { "id": "hf:2610.18829", "week": "2026-W42", "title": "OmniCompass" },
     { "id": "hf:2610.18773", "week": "2026-W42", "title": "Jeva" },
     { "id": "hf:2610.20571", "week": "2026-W42", "title": "Any Time, Any Space" },
-    { "id": "hf:2610.20584", "week": "2026-W42", "title": "Player-1" }
+    { "id": "hf:2610.20584", "week": "2026-W42", "title": "Player-1" },
+
+    { "id": "anthropic:donating-agent-skills-to-the-agentic-ai-foundation", "week": "2026-W43", "title": "Agent Skills を Agentic AI Foundation に寄贈" },
+    { "id": "anthropic:open-call-guest-investigators-life-sciences", "week": "2026-W43", "title": "ライフサイエンス分野のゲスト研究者を公募" },
+    { "id": "anthropic:christopher-stubbs-joins-long-term-benefit-trust", "week": "2026-W43", "title": "Christopher Stubbs 氏が Long-Term Benefit Trust に就任" },
+
+    { "id": "openai:chatgpt-ads-expands-26-new-countries", "week": "2026-W43", "title": "ChatGPT広告を26カ国へ拡大（計89カ国）" },
+    { "id": "openai:decisions-api", "week": "2026-W43", "title": "Decisions API" },
+    { "id": "openai:securing-our-frontier-model-training-environment", "week": "2026-W43", "title": "フロンティアモデル訓練環境の保護" },
+    { "id": "openai:coordinated-disclosure-of-critical-vulnerabilities", "week": "2026-W43", "title": "Patch the Planet（重大脆弱性への協調対応）" },
+    { "id": "openai:low-resource-programming-languages", "week": "2026-W43", "title": "低リソースプログラミング言語でのコーディング性能向上" },
+
+    { "id": "hf:2610.21114", "week": "2026-W43", "title": "Spectral-Spatial Interpretation" },
+    { "id": "hf:2610.28402", "week": "2026-W43", "title": "StreamEval" },
+    { "id": "hf:2610.20424", "week": "2026-W43", "title": "BizBench" },
+    { "id": "hf:2610.22471", "week": "2026-W43", "title": "Has GPT-6-Astra Achieved Embodied Intelligence?" },
+    { "id": "hf:2610.26802", "week": "2026-W43", "title": "Scaling PEFT for Brain Encoding" }
   ]
 }
