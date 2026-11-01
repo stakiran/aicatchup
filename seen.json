@@ -305,6 +305,23 @@
     { "id": "hf:2610.28402", "week": "2026-W43", "title": "StreamEval" },
     { "id": "hf:2610.20424", "week": "2026-W43", "title": "BizBench" },
     { "id": "hf:2610.22471", "week": "2026-W43", "title": "Has GPT-6-Astra Achieved Embodied Intelligence?" },
-    { "id": "hf:2610.26802", "week": "2026-W43", "title": "Scaling PEFT for Brain Encoding" }
+    { "id": "hf:2610.26802", "week": "2026-W43", "title": "Scaling PEFT for Brain Encoding" },
+
+    { "id": "anthropic:s1-sec", "week": "2026-W44", "title": "SECへS-1提出（IPO申請）" },
+    { "id": "anthropic:expanding-partnership-gsa", "week": "2026-W44", "title": "GSAとの提携拡大" },
+    { "id": "anthropic:early-progress-drug-development", "week": "2026-W44", "title": "Claudeによる創薬加速の初期成果" },
+    { "id": "anthropic:ai-for-science-expands-foundations-research-institutions", "week": "2026-W44", "title": "AI for Science の拡大" },
+
+    { "id": "openai:gpt-6-1-terra", "week": "2026-W44", "title": "GPT-6.1 Terra" },
+    { "id": "openai:gpt-6-rosalind-research", "week": "2026-W44", "title": "GPT-6 Rosalind Research" },
+    { "id": "openai:helping-websites-express-ai-training-preferences", "week": "2026-W44", "title": "robots.txt AI学習シグナルの尊重" },
+    { "id": "openai:oracle-expanded-partnership", "week": "2026-W44", "title": "Oracleとの提携拡大" },
+    { "id": "openai:servicenow-expanded-partnership", "week": "2026-W44", "title": "ServiceNowとの提携拡大" },
+
+    { "id": "hf:2610.37381", "week": "2026-W44", "title": "PDRVLA" },
+    { "id": "hf:2610.32749", "week": "2026-W44", "title": "Streaming AV Target Speaker Extraction" },
+    { "id": "hf:2610.35684", "week": "2026-W44", "title": "OmniShowcase" },
+    { "id": "hf:2610.36729", "week": "2026-W44", "title": "Hy-Nomas" },
+    { "id": "hf:2610.35845", "week": "2026-W44", "title": "Work Agents" }
   ]
 }
