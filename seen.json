@@ -322,6 +322,18 @@
     { "id": "hf:2610.32749", "week": "2026-W44", "title": "Streaming AV Target Speaker Extraction" },
     { "id": "hf:2610.35684", "week": "2026-W44", "title": "OmniShowcase" },
     { "id": "hf:2610.36729", "week": "2026-W44", "title": "Hy-Nomas" },
-    { "id": "hf:2610.35845", "week": "2026-W44", "title": "Work Agents" }
+    { "id": "hf:2610.35845", "week": "2026-W44", "title": "Work Agents" },
+
+    { "id": "openai:introducing-gpt-6-cyber", "week": "2026-W45", "title": "GPT-6 Cyber" },
+    { "id": "openai:images-2-6", "week": "2026-W45", "title": "Images 2.6" },
+    { "id": "openai:setting-new-standard-responsible-ai-infrastructure", "week": "2026-W45", "title": "AIインフラの地域コミュニティ指針" },
+    { "id": "openai:introducing-dots", "week": "2026-W45", "title": "dots" },
+    { "id": "openai:acquire-pierre-computer-company", "week": "2026-W45", "title": "Pierre Computer Company買収" },
+
+    { "id": "hf:2611.01860", "week": "2026-W45", "title": "Advances in Agentic Computer Graphics" },
+    { "id": "hf:2611.00859", "week": "2026-W45", "title": "Wave Forcing" },
+    { "id": "hf:2611.05376", "week": "2026-W45", "title": "From Autonomous Agents to Cognitive Symbionts" },
+    { "id": "hf:2611.08449", "week": "2026-W45", "title": "VFlash" },
+    { "id": "hf:2611.03178", "week": "2026-W45", "title": "CoworkOS" }
   ]
 }
