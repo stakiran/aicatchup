@@ -334,6 +334,19 @@
     { "id": "hf:2611.00859", "week": "2026-W45", "title": "Wave Forcing" },
     { "id": "hf:2611.05376", "week": "2026-W45", "title": "From Autonomous Agents to Cognitive Symbionts" },
     { "id": "hf:2611.08449", "week": "2026-W45", "title": "VFlash" },
-    { "id": "hf:2611.03178", "week": "2026-W45", "title": "CoworkOS" }
+    { "id": "hf:2611.03178", "week": "2026-W45", "title": "CoworkOS" },
+
+    { "id": "anthropic:claude-fable-and-mythos-5-2", "week": "2026-W46", "title": "Claude Fable 5.2 / Mythos 5.2" },
+    { "id": "anthropic:roadshow-launch", "week": "2026-W46", "title": "IPOロードショー開始" },
+
+    { "id": "openai:introducing-chatgpt-wallet", "week": "2026-W46", "title": "ChatGPT Wallet" },
+    { "id": "openai:businesses-in-chatgpt", "week": "2026-W46", "title": "ChatGPT事業者エージェント" },
+    { "id": "openai:chatgpt-enterprise-aws-marketplace", "week": "2026-W46", "title": "ChatGPT Enterprise AWS Marketplace" },
+
+    { "id": "hf:2611.15777", "week": "2026-W46", "title": "SO-Arena" },
+    { "id": "hf:2611.12806", "week": "2026-W46", "title": "Heterogeneous Tactile Representation" },
+    { "id": "hf:2611.06043", "week": "2026-W46", "title": "Confucius4-R2T2" },
+    { "id": "hf:2611.14033", "week": "2026-W46", "title": "Few-Step Streaming Video Generation" },
+    { "id": "hf:2611.03953", "week": "2026-W46", "title": "P^2-MOPD" }
   ]
 }
